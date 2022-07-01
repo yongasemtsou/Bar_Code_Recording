@@ -1,0 +1,256 @@
+Code, Time
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=160, top=260, width=86, height=98), polygon=[Point(x=169, y=260), Point(x=246, y=260), Point(x=164, y=263), Point(x=164, y=265), Point(x=167, y=278), Point(x=246, y=278), Point(x=246, y=280), Point(x=166, y=306), Point(x=245, y=306), Point(x=245, y=308), Point(x=161, y=309), Point(x=166, y=310), Point(x=245, y=310), Point(x=161, y=311), Point(x=160, y=325), Point(x=165, y=332), Point(x=163, y=354), Point(x=244, y=356), Point(x=163, y=358)]),18:52,47
+Decoded(data=b'0043100067627', type='EAN13', rect=Rect(left=125, top=231, width=219, height=72), polygon=[Point(x=232, y=231), Point(x=129, y=243), Point(x=231, y=245), Point(x=128, y=245), Point(x=238, y=246), Point(x=238, y=248), Point(x=238, y=250), Point(x=231, y=255), Point(x=237, y=264), Point(x=126, y=281), Point(x=237, y=282), Point(x=126, y=283), Point(x=237, y=284), Point(x=126, y=285), Point(x=236, y=286), Point(x=236, y=298), Point(x=125, y=299), Point(x=236, y=300), Point(x=344, y=300), Point(x=230, y=301), Point(x=344, y=302), Point(x=229, y=303)]),18:52,55
+Decoded(data=b'0043100067627', type='EAN13', rect=Rect(left=125, top=231, width=219, height=72), polygon=[Point(x=232, y=231), Point(x=129, y=243), Point(x=231, y=245), Point(x=128, y=245), Point(x=238, y=246), Point(x=238, y=248), Point(x=238, y=250), Point(x=231, y=255), Point(x=237, y=264), Point(x=126, y=281), Point(x=237, y=282), Point(x=126, y=283), Point(x=237, y=284), Point(x=126, y=285), Point(x=236, y=286), Point(x=236, y=298), Point(x=125, y=299), Point(x=236, y=300), Point(x=344, y=300), Point(x=230, y=301), Point(x=344, y=302), Point(x=229, y=303)]),18:52,55
+Decoded(data=b'0015300200548', type='EAN13', rect=Rect(left=285, top=244, width=1, height=32), polygon=[Point(x=286, y=244), Point(x=286, y=252), Point(x=286, y=256), Point(x=285, y=258), Point(x=285, y=276)]),18:54,10
+Decoded(data=b'0015300200548', type='EAN13', rect=Rect(left=285, top=244, width=1, height=32), polygon=[Point(x=286, y=244), Point(x=286, y=252), Point(x=286, y=256), Point(x=285, y=258), Point(x=285, y=276)]),18:54,10
+Decoded(data=b'0015300200548', type='EAN13', rect=Rect(left=285, top=244, width=1, height=32), polygon=[Point(x=286, y=244), Point(x=286, y=252), Point(x=286, y=256), Point(x=285, y=258), Point(x=285, y=276)]),18:54,10
+Decoded(data=b'0015300200548', type='EAN13', rect=Rect(left=285, top=244, width=1, height=32), polygon=[Point(x=286, y=244), Point(x=286, y=252), Point(x=286, y=256), Point(x=285, y=258), Point(x=285, y=276)]),18:54,10
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=265, top=387, width=253, height=51), polygon=[Point(x=384, y=387), Point(x=265, y=387), Point(x=265, y=389), Point(x=391, y=390), Point(x=266, y=391), Point(x=266, y=393), Point(x=266, y=397), Point(x=393, y=400), Point(x=515, y=400), Point(x=266, y=401), Point(x=386, y=405), Point(x=266, y=405), Point(x=267, y=411), Point(x=394, y=412), Point(x=267, y=413), Point(x=387, y=417), Point(x=267, y=417), Point(x=395, y=418), Point(x=267, y=419), Point(x=395, y=422), Point(x=518, y=422), Point(x=388, y=423), Point(x=267, y=423), Point(x=395, y=424), Point(x=388, y=425), Point(x=267, y=425), Point(x=396, y=428), Point(x=397, y=430), Point(x=397, y=434), Point(x=397, y=438)]),19:52,51
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=265, top=387, width=253, height=51), polygon=[Point(x=384, y=387), Point(x=265, y=387), Point(x=265, y=389), Point(x=391, y=390), Point(x=266, y=391), Point(x=266, y=393), Point(x=266, y=397), Point(x=393, y=400), Point(x=515, y=400), Point(x=266, y=401), Point(x=386, y=405), Point(x=266, y=405), Point(x=267, y=411), Point(x=394, y=412), Point(x=267, y=413), Point(x=387, y=417), Point(x=267, y=417), Point(x=395, y=418), Point(x=267, y=419), Point(x=395, y=422), Point(x=518, y=422), Point(x=388, y=423), Point(x=267, y=423), Point(x=395, y=424), Point(x=388, y=425), Point(x=267, y=425), Point(x=396, y=428), Point(x=397, y=430), Point(x=397, y=434), Point(x=397, y=438)]),19:52,51
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=265, top=387, width=253, height=51), polygon=[Point(x=384, y=387), Point(x=265, y=387), Point(x=265, y=389), Point(x=391, y=390), Point(x=266, y=391), Point(x=266, y=393), Point(x=266, y=397), Point(x=393, y=400), Point(x=515, y=400), Point(x=266, y=401), Point(x=386, y=405), Point(x=266, y=405), Point(x=267, y=411), Point(x=394, y=412), Point(x=267, y=413), Point(x=387, y=417), Point(x=267, y=417), Point(x=395, y=418), Point(x=267, y=419), Point(x=395, y=422), Point(x=518, y=422), Point(x=388, y=423), Point(x=267, y=423), Point(x=395, y=424), Point(x=388, y=425), Point(x=267, y=425), Point(x=396, y=428), Point(x=397, y=430), Point(x=397, y=434), Point(x=397, y=438)]),19:52,51
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=265, top=387, width=253, height=51), polygon=[Point(x=384, y=387), Point(x=265, y=387), Point(x=265, y=389), Point(x=391, y=390), Point(x=266, y=391), Point(x=266, y=393), Point(x=266, y=397), Point(x=393, y=400), Point(x=515, y=400), Point(x=266, y=401), Point(x=386, y=405), Point(x=266, y=405), Point(x=267, y=411), Point(x=394, y=412), Point(x=267, y=413), Point(x=387, y=417), Point(x=267, y=417), Point(x=395, y=418), Point(x=267, y=419), Point(x=395, y=422), Point(x=518, y=422), Point(x=388, y=423), Point(x=267, y=423), Point(x=395, y=424), Point(x=388, y=425), Point(x=267, y=425), Point(x=396, y=428), Point(x=397, y=430), Point(x=397, y=434), Point(x=397, y=438)]),19:52,51
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=265, top=387, width=253, height=51), polygon=[Point(x=384, y=387), Point(x=265, y=387), Point(x=265, y=389), Point(x=391, y=390), Point(x=266, y=391), Point(x=266, y=393), Point(x=266, y=397), Point(x=393, y=400), Point(x=515, y=400), Point(x=266, y=401), Point(x=386, y=405), Point(x=266, y=405), Point(x=267, y=411), Point(x=394, y=412), Point(x=267, y=413), Point(x=387, y=417), Point(x=267, y=417), Point(x=395, y=418), Point(x=267, y=419), Point(x=395, y=422), Point(x=518, y=422), Point(x=388, y=423), Point(x=267, y=423), Point(x=395, y=424), Point(x=388, y=425), Point(x=267, y=425), Point(x=396, y=428), Point(x=397, y=430), Point(x=397, y=434), Point(x=397, y=438)]),19:52,51
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=265, top=387, width=253, height=51), polygon=[Point(x=384, y=387), Point(x=265, y=387), Point(x=265, y=389), Point(x=391, y=390), Point(x=266, y=391), Point(x=266, y=393), Point(x=266, y=397), Point(x=393, y=400), Point(x=515, y=400), Point(x=266, y=401), Point(x=386, y=405), Point(x=266, y=405), Point(x=267, y=411), Point(x=394, y=412), Point(x=267, y=413), Point(x=387, y=417), Point(x=267, y=417), Point(x=395, y=418), Point(x=267, y=419), Point(x=395, y=422), Point(x=518, y=422), Point(x=388, y=423), Point(x=267, y=423), Point(x=395, y=424), Point(x=388, y=425), Point(x=267, y=425), Point(x=396, y=428), Point(x=397, y=430), Point(x=397, y=434), Point(x=397, y=438)]),19:52,51
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=265, top=387, width=253, height=51), polygon=[Point(x=384, y=387), Point(x=265, y=387), Point(x=265, y=389), Point(x=391, y=390), Point(x=266, y=391), Point(x=266, y=393), Point(x=266, y=397), Point(x=393, y=400), Point(x=515, y=400), Point(x=266, y=401), Point(x=386, y=405), Point(x=266, y=405), Point(x=267, y=411), Point(x=394, y=412), Point(x=267, y=413), Point(x=387, y=417), Point(x=267, y=417), Point(x=395, y=418), Point(x=267, y=419), Point(x=395, y=422), Point(x=518, y=422), Point(x=388, y=423), Point(x=267, y=423), Point(x=395, y=424), Point(x=388, y=425), Point(x=267, y=425), Point(x=396, y=428), Point(x=397, y=430), Point(x=397, y=434), Point(x=397, y=438)]),19:52,51
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=265, top=387, width=253, height=51), polygon=[Point(x=384, y=387), Point(x=265, y=387), Point(x=265, y=389), Point(x=391, y=390), Point(x=266, y=391), Point(x=266, y=393), Point(x=266, y=397), Point(x=393, y=400), Point(x=515, y=400), Point(x=266, y=401), Point(x=386, y=405), Point(x=266, y=405), Point(x=267, y=411), Point(x=394, y=412), Point(x=267, y=413), Point(x=387, y=417), Point(x=267, y=417), Point(x=395, y=418), Point(x=267, y=419), Point(x=395, y=422), Point(x=518, y=422), Point(x=388, y=423), Point(x=267, y=423), Point(x=395, y=424), Point(x=388, y=425), Point(x=267, y=425), Point(x=396, y=428), Point(x=397, y=430), Point(x=397, y=434), Point(x=397, y=438)]),19:52,51
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0070330184879', type='EAN13', rect=Rect(left=251, top=393, width=239, height=27), polygon=[Point(x=251, y=403), Point(x=251, y=419), Point(x=372, y=420), Point(x=490, y=414), Point(x=364, y=393), Point(x=252, y=393)]),19:59,15
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'0018697593743', type='EAN13', rect=Rect(left=225, top=286, width=83, height=30), polygon=[Point(x=225, y=286), Point(x=225, y=298), Point(x=308, y=316), Point(x=306, y=286)]),20:46,34
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'888912', type='I25', rect=Rect(left=420, top=479, width=0, height=0), polygon=[Point(x=420, y=479)]),20:48,52
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
+Decoded(data=b'', type='CODE128', rect=Rect(left=449, top=382, width=0, height=0), polygon=[Point(x=449, y=382)]),20:49,21
