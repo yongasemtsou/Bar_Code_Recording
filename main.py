@@ -1,3 +1,4 @@
+#https://www.youtube.com/watch?v=-4MPtERPq2E
 import cv2 # Read image  /  camera / video input
 from pyzbar.pyzbar import decode
 import time
